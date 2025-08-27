@@ -1,4 +1,4 @@
-# Vector - File Finder Project 🚀
+# Vanadium - File Finder Project 🚀
 
 ## 🎯 What I'm Building
 A **hierarchy-aware fuzzy file finder** that lets me type space-separated path fragments to instantly locate files in deep directory structures.
